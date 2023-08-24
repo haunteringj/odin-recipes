@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+
+    border-color: black;
+    border-style: double;
+    border-radius: 10%;
+    padding: 5%;
+}
